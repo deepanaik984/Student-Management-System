@@ -41,11 +41,11 @@ The Student Management System is a console-based application developed using Pyt
 6. Exit
 ```
 ##Project Screenshots
-(Screenshots/Screenshot(999).png)
-(Screenshots/Screenshot(1000).png)
-(Screenshots/Screenshot(1001).png)
-(Screenshots/Screenshot(1002).png)
-(Screenshots/Screenshot(1003).png)
-(Screenshots/Screenshot(1004).png)
-(Screenshots/Screenshot(1005).png)
-(Screenshots/Screenshot(1006).png)
+![](Screenshots/Screenshot(999).png)
+![](Screenshots/Screenshot(1000).png)
+![](Screenshots/Screenshot(1001).png)
+![](Screenshots/Screenshot(1002).png)
+![](Screenshots/Screenshot(1003).png)
+![](Screenshots/Screenshot(1004).png)
+![](Screenshots/Screenshot(1005).png)
+![](Screenshots/Screenshot(1006).png)
